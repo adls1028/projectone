@@ -1,3 +1,6 @@
+## Project Three
+### CS210
+
 **Summarize the project and what problem it was solving.**
 - This project created code to be able to show a 12 hour and 24 hour clock with the proper time simultaneously in C++. 
 
